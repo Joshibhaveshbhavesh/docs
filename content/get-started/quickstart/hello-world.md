@@ -1,11 +1,10 @@
 ---
-title: Hello World
-intro: 'Follow this Hello World exercise to get started with {% data variables.product.product_name %}.'
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
+title: Free Dimond
+intro: gat new reward 
+  fpt: I'd ,no.,email
+  ghes: password 
+  ghae: no.
+  ghec: password 
 type: quick_start
 topics:
   - Pull requests
